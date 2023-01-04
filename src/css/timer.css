@@ -1,0 +1,11 @@
+body {
+background-image: url(../img/modern-sale-banner-with-text-space-area_1017-27331.webp);
+background-size: cover;
+background-repeat: no-repeat;
+font-style: italic;
+}
+
+.timer {
+    display: flex;
+    gap: 10px;
+}
