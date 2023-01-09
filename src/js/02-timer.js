@@ -29,7 +29,6 @@ flatpickr(inputDate, options);
 
 startBtn.setAttribute('disabled', true);
 
-// onClose()
 startBtn.addEventListener('click', onStartBtn);
 
 function onStartBtn() {
